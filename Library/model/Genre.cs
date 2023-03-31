@@ -9,6 +9,9 @@
         Romance,
         Thriller,
         Poetry,
-        Theater
+        Theater,
+        Art,
+        History,
+        ComputerScience
     }
 }
