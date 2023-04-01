@@ -1,5 +1,6 @@
 ﻿namespace Library.model
 {
+    [Serializable]
     public class Book
     {
         private static int _id = 0;
